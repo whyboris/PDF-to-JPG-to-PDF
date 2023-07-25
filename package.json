@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "tojpg": "node pdf2jpg.js",
+    "topdf": "node jpg2pdf.js",
+    "extract": "node split.js"
+  },
+  "dependencies": {
+    "fdir": "6.0.1",
+    "pdf-lib": "1.17.1",
+    "pdf-to-img": "2.1.1",
+    "pdfkit": "0.13.0"
+  }
+}
