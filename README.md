@@ -28,8 +28,8 @@ Now you're ready for the last steps:
 
 ## TL;DR
 
-1. Put your PDF in this folder and rename to `input.pdf`
-2. update the first line of _pdf2jpg.js_ to the name of your PDF
+1. Put your PDF in this folder 
+2. rename it to `input.pdf` (or update the first line of _pdf2jpg.js_ to the name of your PDF)
 3. run `npm run tojpg` and you have _JPG_ images in the _/jpg_ folder
 
 After editing your images in the _/jpg_ folder, run `npm run topdf` and you'll have a PDF generated from your images.
