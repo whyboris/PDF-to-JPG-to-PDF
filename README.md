@@ -19,7 +19,7 @@ _Please read:_ **Terminal** is a tool you use to make your computer execute comm
       - or consider [FluentTerminal](https://github.com/felixse/FluentTerminal), [Tabby](https://github.com/Eugeny/tabby), or [alacritty](https://github.com/alacritty/alacritty)
 
 1. install [git](https://git-scm.com/)
-2. install [node](https://nodejs.org/en/)
+2. install [node](https://nodejs.org/en/) (works with `v18` but not `v20`)
 3. clone this repository by running `git clone https://github.com/whyboris/PDF-to-JPG-to-PDF`
 4. enter the folder: `cd PDF-to-JPG-to-PDF`
 5. run `npm install`
